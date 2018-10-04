@@ -1,0 +1,5 @@
+This page was created on Fri Jun 15 2012 and last changed on Mon Mar 19 2018.
+
+This page explains how to set up a global .gitignore file for users of GitHub for Windows.
+
+The .gitconfig file for Github for Windows lives in the user's home directory. In my case, on Windows Vista, the location of the .gitconfig file is C:\Users\ben\.gitconfig. To set up a global gitconfig, I use a directory C:\Users\ben\config containing a file called global.gitignore, and in .gitconfig I add the following:

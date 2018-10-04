@@ -1,0 +1,17 @@
+# Emacs backup files
+*.~*~
+\#*\#
+# Emacs backups of hidden files, like ".gitignore.~3~"
+.*.~*~
+.\#*
+# Object files
+*.o
+# Core files (files created when an executable program crashes).
+*.core
+# Perl build process related
+blib
+pm_to_blib
+Makefile.old
+MYMETA.json
+MYMETA.yml
+MANIFEST.bak
