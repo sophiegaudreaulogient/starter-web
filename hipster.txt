@@ -6,4 +6,4 @@ Perl's utf8 and file names on Windows (3 October 2009)
 Switching Win32::OLE to UTF-8 (28 September 2009)
 Listing Windows processes with Win32::Process::List (25 September 2009)
 Add Emacs to the Windows file menu (24 August 2009)
-Make Emacs the default program for text files on Windows (24 August 2009)
+
